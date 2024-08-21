@@ -1,7 +1,7 @@
 **Black Jack Java Game**
 
 **Overview**
-This is a simple Black Jack game written in Java using Swing for the graphical user interface. Players compete against a computer dealer to get as close to 21 as possible without going over.
+•This is a simple Black Jack game written in Java using Swing for the graphical user interface. Players compete against a computer dealer to get as close to 21 as possible without going over.
 
 **Features**
 •	Graphical Interface: Displays cards and game status using Java Swing.
